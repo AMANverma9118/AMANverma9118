@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **av3497924@gmail.com**
 
-- 📄 Know about my experiences [https://pdflink.to/597d8e66/](https://pdflink.to/597d8e66/)
+- 📄 Know about my experiences [Aman Verma Resume/](https://drive.google.com/file/d/1pYRVLTxSEWi0R6dQ5NrRICWCuIJz-VJX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
