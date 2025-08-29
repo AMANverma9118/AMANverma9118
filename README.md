@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Inotebook**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-vermaaman.vercel.app/](https://portfolio-vermaaman.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://amanverma9118.github.io/React-Portfolio/](https://amanverma9118.github.io/React-Portfolio/)
 
 - 📫 How to reach me **av3497924@gmail.com**
 
