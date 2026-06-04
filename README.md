@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanverma9118&label=Profile%20views&color=0e75b6&style=flat" alt="amanverma9118" /> </p>
 
-- 🔭 I’m currently working on **Inotebook**
+- 🔭 I’m currently working with **RapidFacto**
 
 - 👨‍💻 All of my projects are available at [https://amanverma9118.github.io/React-Portfolio/](https://amanverma9118.github.io/React-Portfolio/)
 
-- 📫 How to reach me **av3497924@gmail.com**
+- 📫 How to reach me **aman.verma3497924@gmail.com**
 
 - 📄 Know about my experiences [Aman Verma Resume/](https://drive.google.com/file/d/1pYRVLTxSEWi0R6dQ5NrRICWCuIJz-VJX/view?usp=sharing)
 
